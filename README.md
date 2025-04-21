@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/salvium/brand-assets/blob/main/Salvium_assets/wordmark_logo/black/solid/salvium_wordmark_black_1024x1024px_solid.png?raw=true" width="200"/>
+</p>
 # Salvium Research & Audit Repository
 
 This repository contains research papers, technical documentation, audits, and preprints related to the Salvium project - a privacy-focused blockchain with staking, DeFi capabilities, and regulatory compliance features.
